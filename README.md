@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mithaniel Villard-Hernandez</h1>
 <h3 align="center">Game dev student | Low-level coding enthusiast | C++ and graphics programming.</h3>
 
+
 - 🔭 I’m currently working on **Nova Engine**
 
 - 👨‍💻 All of my projects are available at [mithaniel.space](mithaniel.space)
@@ -12,7 +13,9 @@
 <a href="https://linkedin.com/in/mithaniel villard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithaniel villard" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithanielvillard&show_icons=true&locale=en&layout=compact" alt="mithanielvillard" /></p>
+
+<hr/>
+<p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithanielvillard&show_icons=true&locale=en&layout=compact" alt="mithanielvillard" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithanielvillard&show_icons=true&locale=en" alt="mithanielvillard" /></p>
 
