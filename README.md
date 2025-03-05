@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Nova Engine**
 
-- 👨‍💻 All of my projects are available at [mithanielvillard.github.io](mithanielvillard.github.io)
+- 👨‍💻 All of my projects are available at [mithanielvillard.github.io](https://mithanielvillard.github.io)
 
 - 📫 How to reach me **mvillardhernandez@gaming.tech**
 
